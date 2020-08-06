@@ -1,1 +1,65 @@
-[{"channelId":"UC4Fh9OcvIEWK405Cvg25jDw","isTranslator":true,"channelName":"Sushi [Hololive and Vtubers]","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJyDYo588HZmkw_0XGuHWTR4GkPZXlX0Xq_8RgYe=s88-c-k-c0xffffffff-no-rj-mo","videoCount":231},{"channelId":"UCsYcCwDqv6Sg8KMIIMF54SA","isTranslator":true,"channelName":"Kiriku Translation","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJzwEg8Hy1c6AgrUCvSsiVnxMNrE2Rj-aqqbenSy=s88-c-k-c0xffffffff-no-rj-mo","videoCount":124},{"channelId":"UC4uwn2CFB6ehNgpkiGWco2A","isTranslator":true,"channelName":"InAccurateSubs","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJz_84-UnLaQj_qhPfHYpDUYLPsWerI0_y5xax_v=s88-c-k-c0xffffffff-no-rj-mo","videoCount":65},{"channelId":"UCS_T52AGs1f2GM6OJq7gFyw","isTranslator":true,"channelName":"Kaiser Subs","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJzUFK2V0AsG7_WGoGIB7BbLkuPuFgXwndI6RGg5Sg=s88-c-k-c0xffffffff-no-rj-mo","videoCount":33},{"channelId":"UCoe3QLdQk2TTJd8iXJkQLmA","isTranslator":true,"channelName":"Ritore Translations","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJzeX4VNDwUtfq2H5yPbGr-Mua6md50DHc0ljcu8=s88-c-k-c0xffffffff-no-rj-mo","videoCount":156},{"channelId":"UC9UitPGyhDhPXmAB2Ns_L7A","isTranslator":true,"channelName":"Anungmation【アヌンメーション】","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJwRTSdXIPJO4WPOt6vbxrJaR5uM3I9tKa7S0Bsguw=s88-c-k-c0xffffffff-no-rj-mo","videoCount":23},{"channelId":"UClKbDwVDdOGWj6LRBeF1_mQ","isTranslator":true,"channelName":"FloatingGhost","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJxld3IMVluIIqWakfo8D1kk_CgT-zLj50ZD9rah=s88-c-k-c0xffffffff-no-rj-mo","videoCount":87},{"channelId":"UCi3RiY2dus-oeBRvxRBNJgg","isTranslator":true,"channelName":"birdkun21","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJwZCwH-dzdO0E98oNfxrBZH8bgiR2dshXmNJPJ1=s88-c-k-c0xffffffff-no-rj-mo","videoCount":283},{"channelId":"UCg-5I4KD3L2zBTTbFKid91w","isTranslator":true,"channelName":"Virtuals Translated","thumbnailUrl":"https://yt3.ggpht.com/a/AATXAJwRxb3ZZ2xOrU9w11dwlekeSKNfIxfoXSwlFYZc=s88-c-k-c0xffffffff-no-rj-mo","videoCount":60}]
+[
+  {
+    "channelId": "UC4Fh9OcvIEWK405Cvg25jDw",
+    "isTranslator": true,
+    "channelName": "Sushi [Hololive and Vtubers]",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJyDYo588HZmkw_0XGuHWTR4GkPZXlX0Xq_8RgYe=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 231
+  },
+  {
+    "channelId": "UCsYcCwDqv6Sg8KMIIMF54SA",
+    "isTranslator": true,
+    "channelName": "Kiriku Translation",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJzwEg8Hy1c6AgrUCvSsiVnxMNrE2Rj-aqqbenSy=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 124
+  },
+  {
+    "channelId": "UC4uwn2CFB6ehNgpkiGWco2A",
+    "isTranslator": true,
+    "channelName": "InAccurateSubs",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJz_84-UnLaQj_qhPfHYpDUYLPsWerI0_y5xax_v=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 65
+  },
+  {
+    "channelId": "UCS_T52AGs1f2GM6OJq7gFyw",
+    "isTranslator": true,
+    "channelName": "Kaiser Subs",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJzUFK2V0AsG7_WGoGIB7BbLkuPuFgXwndI6RGg5Sg=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 33
+  },
+  {
+    "channelId": "UCoe3QLdQk2TTJd8iXJkQLmA",
+    "isTranslator": true,
+    "channelName": "Ritore Translations",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJzeX4VNDwUtfq2H5yPbGr-Mua6md50DHc0ljcu8=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 156
+  },
+  {
+    "channelId": "UC9UitPGyhDhPXmAB2Ns_L7A",
+    "isTranslator": true,
+    "channelName": "Anungmation【アヌンメーション】",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJwRTSdXIPJO4WPOt6vbxrJaR5uM3I9tKa7S0Bsguw=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 23
+  },
+  {
+    "channelId": "UClKbDwVDdOGWj6LRBeF1_mQ",
+    "isTranslator": true,
+    "channelName": "FloatingGhost",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJxld3IMVluIIqWakfo8D1kk_CgT-zLj50ZD9rah=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 87
+  },
+  {
+    "channelId": "UCi3RiY2dus-oeBRvxRBNJgg",
+    "isTranslator": true,
+    "channelName": "birdkun21",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJwZCwH-dzdO0E98oNfxrBZH8bgiR2dshXmNJPJ1=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 283
+  },
+  {
+    "channelId": "UCg-5I4KD3L2zBTTbFKid91w",
+    "isTranslator": true,
+    "channelName": "Virtuals Translated",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJwRxb3ZZ2xOrU9w11dwlekeSKNfIxfoXSwlFYZc=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 60
+  }
+]

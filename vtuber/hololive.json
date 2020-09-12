@@ -351,9 +351,49 @@
   },
   {
     "channelId": "UCgNVXGlZIFK96XdEY20sVjg",
-    "channelName": "Civia/希薇娅/ シビア",
+    "channelName": "Civia/希薇娅/シビア",
     "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJz8mEDtNAWGZMqRhgo2o7zgLLipBC3oa7JJ8YzT=s88-c-k-c0xffffffff-no-rj-mo",
     "twitter": "https://twitter.com/Civia_Hololive",
     "isTranslator": false
+  },
+  {
+    "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+    "isTranslator": false,
+    "channelName": "Mori Calliope/森カリオペ",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJwBT0RCEyLDyqdqy4m-Ig5U7axjMnl6neaWHhFa=s88-c-k-c0xffffffff-no-rj-mo",
+    "twitter": "https://twitter.com/moricalliope",
+    "videoCount": 0
+  },
+  {
+    "channelId": "UCHsx4Hqa-1ORjQTh9TYDhww",
+    "isTranslator": false,
+    "channelName": "Takanashi Kiara/小鳥遊キアラ",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJz1t3Qobm0uF0QZs4iNYnfQ4PT0iiq4cUs8mTrt=s88-c-k-c0xffffffff-no-rj-mo",
+    "twitter": "https://twitter.com/takanashikiara",
+    "videoCount": 0
+  },
+  {
+    "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+    "isTranslator": false,
+    "channelName": "Ninomae Ina'nis/一伊那尓栖",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJzBLvl1RZPueVo8gVdFbSK7M8MDIbWb-ISuwv6K=s88-c-k-c0xffffffff-no-rj-mo",
+    "twitter": "https://twitter.com/ninomaeinanis",
+    "videoCount": 0
+  },
+  {
+    "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+    "isTranslator": false,
+    "channelName": "Gawr Gura/がうる・ぐら",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJwyNfLKBDLZoKA3c7u_vPOKbQitz4fcDwi7Iqhi=s88-c-k-c0xffffffff-no-rj-mo",
+    "twitter": "https://twitter.com/gawrgura",
+    "videoCount": 0
+  },
+  {
+    "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
+    "isTranslator": false,
+    "channelName": "Watson Amelia/ワトソン・アメリア",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJy4N7OLrI5euxdzCX_OiS6hDbHUSqqIJoWK_170=s88-c-k-c0xffffffff-no-rj-mo",
+    "twitter": "https://twitter.com/watsonameliaen",
+    "videoCount": 0
   }
 ]

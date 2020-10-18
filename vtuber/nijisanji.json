@@ -798,15 +798,47 @@
   {
     "channelId": "UCClwIqTUn5LDpFucHyaAhHg",
     "isTranslator": false,
-    "channelName": "Lee Rohna/이로하/イロハ",
+    "channelName": "Lee Roha/이로하/イ・ロハ",
     "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJyXV0djaDWLTR9wJwqTXdDkznP7O1zxkCLSvy16=s88-c-k-c0xffffffff-no-rj-mo",
     "videoCount": 4
   },
   {
     "channelId": "UC1ZV7KBscK0EMoJKFu1DnDg",
     "isTranslator": false,
-    "channelName": "Nun Bora/눈보라/ヌンボラ",
+    "channelName": "Nun Bora/눈보라/ヌン・ボラ",
     "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJxuZOjyFqJPl61qzeOydNh48DzppAI7dz0HUHeO=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 4
+  },
+  {
+    "channelId": "UCnzZmBOSrQf2wDBbnsDajVw",
+    "twitter": "https://twitter.com/JiyuOh2434",
+    "isTranslator": false,
+    "channelName": "Oh Jiyu/오지유/オ・ジユ",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJzje2dTKmIqVFX4OfSX4-rrNIlRR7v1rOeS-3e5=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 5
+  },
+  {
+    "channelId": "UCi6nV5Z2dzFuXBzLG3P9zqQ",
+    "twitter": "https://twitter.com/KiruShin2434",
+    "isTranslator": false,
+    "channelName": "Shin Kiru/신기루/シン・ギル",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJytg8ldsWWraqGdtidMjfs4oep5QW_n05iqZB5i=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 4
+  },
+  {
+    "channelId": "UCCHH0nWYXFZmtDS_4tvMxHQ",
+    "twitter": "https://twitter.com/NariYang2434",
+    "isTranslator": false,
+    "channelName": "Yang Nari/양나리/ヤン・ナリ",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJx2Rqb_iUDbY2ZhK8wuzJ4rcqteppuWbkJXIJV3=s88-c-k-c0xffffffff-no-rj-mo",
+    "videoCount": 6
+  },
+  {
+    "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
+    "twitter": "https://twitter.com/HariRyu2434",
+    "isTranslator": false,
+    "channelName": "Ryu Hari/류하리/リュ・ハリ",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AATXAJxCktZCeuA6epDNME_XDH2-VtnNCDptXZxfgUEc=s88-c-k-c0xffffffff-no-rj-mo",
     "videoCount": 4
   }
 ]
